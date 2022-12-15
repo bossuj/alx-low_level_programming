@@ -9,7 +9,6 @@ int main(void)
 {
 	int i;
 
-	i = i;
 	print("Infinite loop incoming :(\n");
 
 	i = 0;
